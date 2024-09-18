@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HumairKashan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Software Engineering
+- 👀 I’m interested in Linux
+- 🌱 I’m currently learning Cyber-Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
