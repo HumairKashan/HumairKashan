@@ -26,3 +26,10 @@
 
 ## 📫 Contact
 - LinkedIn: *(www.linkedin.com/in/humair-kashan-b8b257261)*
+
+### 🛠 Tech Stack
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HumairKashan&show_icons=true&theme=tokyonight)
